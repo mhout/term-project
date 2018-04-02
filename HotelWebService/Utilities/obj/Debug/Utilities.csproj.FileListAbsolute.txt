@@ -1,0 +1,16 @@
+E:\CIS 3342 - Server Side Scripting\Project 2\Project2\Utilities\bin\Debug\Utilities.dll
+E:\CIS 3342 - Server Side Scripting\Project 2\Project2\Utilities\bin\Debug\Utilities.pdb
+E:\CIS 3342 - Server Side Scripting\Project 2\Project2\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\CIS 3342 - Server Side Scripting\Project 2\Project2\Utilities\obj\Debug\Utilities.dll
+E:\CIS 3342 - Server Side Scripting\Project 2\Project2\Utilities\obj\Debug\Utilities.pdb
+H:\My Drive\CIS 3342 - Server Side Scripting\Utilities\bin\Debug\Utilities.dll
+H:\My Drive\CIS 3342 - Server Side Scripting\Utilities\bin\Debug\Utilities.pdb
+H:\My Drive\CIS 3342 - Server Side Scripting\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+H:\My Drive\CIS 3342 - Server Side Scripting\Utilities\obj\Debug\Utilities.dll
+H:\My Drive\CIS 3342 - Server Side Scripting\Utilities\obj\Debug\Utilities.pdb
+H:\My Drive\CIS 3342 - Server Side Scripting\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+Y:\Github\term-project\HotelWebService\Utilities\bin\Debug\Utilities.dll
+Y:\Github\term-project\HotelWebService\Utilities\bin\Debug\Utilities.pdb
+Y:\Github\term-project\HotelWebService\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+Y:\Github\term-project\HotelWebService\Utilities\obj\Debug\Utilities.dll
+Y:\Github\term-project\HotelWebService\Utilities\obj\Debug\Utilities.pdb
