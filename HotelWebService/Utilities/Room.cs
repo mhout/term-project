@@ -17,14 +17,109 @@ namespace Utilities
         private double rate;
         private string status;
 
-        public int RoomNumber { get => roomNumber; set => roomNumber = value; }
-        public string RoomDescription { get => roomDescription; set => roomDescription = value; }
-        public string RoomType { get => roomType; set => roomType = value; }
-        public int NumberBeds { get => numberBeds; set => numberBeds = value; }
-        public int Sleeps { get => sleeps; set => sleeps = value; }
-        public string View { get => view; set => view = value; }
-        public double Rate { get => rate; set => rate = value; }
-        public string Status { get => status; set => status = value; }
+        public int RoomNumber
+        {
+            get
+            {
+                return roomNumber;
+            }
+
+            set
+            {
+                roomNumber = value;
+            }
+        }
+
+        public string RoomDescription
+        {
+            get
+            {
+                return roomDescription;
+            }
+
+            set
+            {
+                roomDescription = value;
+            }
+        }
+
+        public string RoomType
+        {
+            get
+            {
+                return roomType;
+            }
+
+            set
+            {
+                roomType = value;
+            }
+        }
+
+        public int NumberBeds
+        {
+            get
+            {
+                return numberBeds;
+            }
+
+            set
+            {
+                numberBeds = value;
+            }
+        }
+
+        public int Sleeps
+        {
+            get
+            {
+                return sleeps;
+            }
+
+            set
+            {
+                sleeps = value;
+            }
+        }
+
+        public string View
+        {
+            get
+            {
+                return view;
+            }
+
+            set
+            {
+                view = value;
+            }
+        }
+
+        public double Rate
+        {
+            get
+            {
+                return rate;
+            }
+
+            set
+            {
+                rate = value;
+            }
+        }
+
+        public string Status
+        {
+            get
+            {
+                return status;
+            }
+
+            set
+            {
+                status = value;
+            }
+        }
 
         public Room()
         {

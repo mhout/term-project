@@ -24,21 +24,200 @@ namespace Utilities
         private string paymentStatus;
         private string username;
 
-        public int ReservationID { get => reservationID; set => reservationID = value; }
-        public int HotelID { get => hotelID; set => hotelID = value; }
-        public int RoomNumber { get => roomNumber; set => roomNumber = value; }
-        public string CustomerName { get => customerName; set => customerName = value; }
-        public string CustomerPhone { get => customerPhone; set => customerPhone = value; }
-        public string CustomerEmail { get => customerEmail; set => customerEmail = value; }
-        public double TotalCost { get => totalCost; set => totalCost = value; }
-        public DateTime CheckInDate { get => checkInDate; set => checkInDate = value; }
-        public DateTime CheckOutDate { get => checkOutDate; set => checkOutDate = value; }
-        public int NumberAdults { get => numberAdults; set => numberAdults = value; }
-        public int NumberChildren { get => numberChildren; set => numberChildren = value; }
-        public string SpecialRequests { get => specialRequests; set => specialRequests = value; }
-        public string PaymentMethod { get => paymentMethod; set => paymentMethod = value; }
-        public string PaymentStatus { get => paymentStatus; set => paymentStatus = value; }
-        public string Username { get => username; set => username = value; }
+        public int ReservationID
+        {
+            get
+            {
+                return reservationID;
+            }
+
+            set
+            {
+                reservationID = value;
+            }
+        }
+
+        public int HotelID
+        {
+            get
+            {
+                return hotelID;
+            }
+
+            set
+            {
+                hotelID = value;
+            }
+        }
+
+        public int RoomNumber
+        {
+            get
+            {
+                return roomNumber;
+            }
+
+            set
+            {
+                roomNumber = value;
+            }
+        }
+
+        public string CustomerName
+        {
+            get
+            {
+                return customerName;
+            }
+
+            set
+            {
+                customerName = value;
+            }
+        }
+
+        public string CustomerPhone
+        {
+            get
+            {
+                return customerPhone;
+            }
+
+            set
+            {
+                customerPhone = value;
+            }
+        }
+
+        public string CustomerEmail
+        {
+            get
+            {
+                return customerEmail;
+            }
+
+            set
+            {
+                customerEmail = value;
+            }
+        }
+
+        public double TotalCost
+        {
+            get
+            {
+                return totalCost;
+            }
+
+            set
+            {
+                totalCost = value;
+            }
+        }
+
+        public DateTime CheckInDate
+        {
+            get
+            {
+                return checkInDate;
+            }
+
+            set
+            {
+                checkInDate = value;
+            }
+        }
+
+        public DateTime CheckOutDate
+        {
+            get
+            {
+                return checkOutDate;
+            }
+
+            set
+            {
+                checkOutDate = value;
+            }
+        }
+
+        public int NumberAdults
+        {
+            get
+            {
+                return numberAdults;
+            }
+
+            set
+            {
+                numberAdults = value;
+            }
+        }
+
+        public int NumberChildren
+        {
+            get
+            {
+                return numberChildren;
+            }
+
+            set
+            {
+                numberChildren = value;
+            }
+        }
+
+        public string SpecialRequests
+        {
+            get
+            {
+                return specialRequests;
+            }
+
+            set
+            {
+                specialRequests = value;
+            }
+        }
+
+        public string PaymentMethod
+        {
+            get
+            {
+                return paymentMethod;
+            }
+
+            set
+            {
+                paymentMethod = value;
+            }
+        }
+
+        public string PaymentStatus
+        {
+            get
+            {
+                return paymentStatus;
+            }
+
+            set
+            {
+                paymentStatus = value;
+            }
+        }
+
+        public string Username
+        {
+            get
+            {
+                return username;
+            }
+
+            set
+            {
+                username = value;
+            }
+        }
 
         public Reservation()
         {
