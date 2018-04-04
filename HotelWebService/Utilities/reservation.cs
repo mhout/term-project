@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Utilities
 {
-    class Reservation
+    public class Reservation
     {
         private int reservationID;
         private int hotelID;
@@ -22,6 +22,7 @@ namespace Utilities
         private string specialRequests;
         private string paymentMethod;
         private string paymentStatus;
+        private string username;
 
         public int ReservationID { get => reservationID; set => reservationID = value; }
         public int HotelID { get => hotelID; set => hotelID = value; }
@@ -37,6 +38,7 @@ namespace Utilities
         public string SpecialRequests { get => specialRequests; set => specialRequests = value; }
         public string PaymentMethod { get => paymentMethod; set => paymentMethod = value; }
         public string PaymentStatus { get => paymentStatus; set => paymentStatus = value; }
+        public string Username { get => username; set => username = value; }
 
         public Reservation()
         {

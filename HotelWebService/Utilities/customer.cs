@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Utilities
 {
-    class Customer
+    public class Customer
     {
         private string name;
         private string phone;

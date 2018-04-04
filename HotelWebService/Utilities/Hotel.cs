@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Utilities
 {
-    class Hotel
+    public class Hotel
     {
         private int hotelID;
         private string hotelName;

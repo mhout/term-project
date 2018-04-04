@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Utilities
 {
-    class Room
+    public class Room
     {
         private int roomNumber;
         private string roomDescription;
