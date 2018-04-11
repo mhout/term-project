@@ -94,7 +94,7 @@ namespace HotelWebService
         }
 
         [WebMethod]
-        public bool Reserve(Hotel hotel, Room room, Customer customer, Reservation reservation string userID, string password)
+        public bool Reserve(Hotel hotel, Room room, Customer customer, Reservation reservation, string userID, string password)
         {
             objCommand = new SqlCommand();
             objCommand.CommandType = CommandType.StoredProcedure;

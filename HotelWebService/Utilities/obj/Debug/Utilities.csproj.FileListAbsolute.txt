@@ -14,3 +14,8 @@ Y:\Github\term-project\HotelWebService\Utilities\bin\Debug\Utilities.pdb
 Y:\Github\term-project\HotelWebService\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
 Y:\Github\term-project\HotelWebService\Utilities\obj\Debug\Utilities.dll
 Y:\Github\term-project\HotelWebService\Utilities\obj\Debug\Utilities.pdb
+C:\Users\MengHieng\Desktop\TermProject\term-project\HotelWebService\Utilities\bin\Debug\Utilities.dll
+C:\Users\MengHieng\Desktop\TermProject\term-project\HotelWebService\Utilities\bin\Debug\Utilities.pdb
+C:\Users\MengHieng\Desktop\TermProject\term-project\HotelWebService\Utilities\obj\Debug\Utilities.dll
+C:\Users\MengHieng\Desktop\TermProject\term-project\HotelWebService\Utilities\obj\Debug\Utilities.pdb
+C:\Users\MengHieng\Desktop\TermProject\term-project\HotelWebService\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache

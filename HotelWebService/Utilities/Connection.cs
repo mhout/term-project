@@ -10,8 +10,9 @@ namespace Utilities
 {
     public class DBConnect
     {
-        String SqlConnectString = "server=cis-mssql1.temple.edu;Database=sp18_3342_tuf92127;User id=tuf92127;Password=equei3ki";
-        //String SqlConnectString = "server=127.0.0.1,5555;Database=sp18_3342_tuf92127;User id=tuf92127;Password=equei3ki";
+       // String SqlConnectString = "server=cis-mssql1.temple.edu;Database=sp18_3342_tuf92127;User id=tuf92127;Password=equei3ki";
+       // String SqlConnectString = "server=127.0.0.1,5555;Database=sp18_3342_tuf92127;User id=tuf92127;Password=equei3ki";
+        String SqlConnectString = @"Data Source = (localdb)\MSSQLLocalDB;Initial Catalog = HotelWebServices; Integrated Security = True; Connect Timeout = 30; Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         SqlConnection myConnectionSql;
         SqlCommand objCmd;
         SqlDataReader objDataReader;
